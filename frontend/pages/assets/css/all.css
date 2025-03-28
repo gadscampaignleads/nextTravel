@@ -1,0 +1,139 @@
+.common_banner_custttheme {
+    background-image: url("/imgs/images/atlanta-ban.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    padding-top: 6rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.common_banner_custttheme::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2));
+    z-index: -1;
+}
+
+.title_dess {
+    margin-bottom: 2rem;
+    color: var(--w);
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+.los_bb {
+    background: url("/imgs/images/los-ban.png");
+}
+
+.ph_bb {
+    background: url("/imgs/images/phoenix-ban.png");
+}
+
+.miami_b {
+    background: url("/imgs/images/miami-ban.png");
+}
+
+.fort_b {
+    background: url("/imgs/images/fort-ban.png");
+}
+
+/**/
+.offer_t {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.co_ul {
+    padding-left: 21px;
+    margin-top: 13px;
+}
+
+.co_ul li {
+    font-size: 12px;
+    margin: 8px 0px;
+    list-style: decimal;
+}
+
+.offer_faress_v {
+    font-weight: 500;
+    font-size: 15px;
+    color: var(--color-black);
+    border-bottom: 1px dashed var(--color-black);
+    padding-bottom: 7px;
+    margin-bottom: 6px;
+
+}
+
+.offer_container_asidee {
+    background-color: white;
+    display: block;
+    z-index: 1;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.1);
+
+}
+
+.agent_icc img {
+    height: 120px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+.offer_faress_v img {
+    width: auto;
+    height: 23px;
+    animation: zoom_in 3s linear infinite
+}
+
+.aero_off_1 img {
+    height: 170px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.lets_imgg img {
+    height: 320px;
+    object-fit: cover;
+}
+
+.lets_cc {
+    padding: 13px;
+    margin-top: -20px;
+    background-color: var(--color-white);
+    border-radius: 20px 20px 0px 0px;
+    position: relative;
+    border-top: 4px solid var(--b);
+}
+
+.price_none_d {
+    justify-content: flex-end;
+}
+
+/**/
+.frank_bg {
+    background-image: url("/imgs/images/frankfurt-bg.png");
+}
+
+.london_bg {
+    background-image: url("/imgs/images/london-bg.png");
+}
+
+.zurich_bg {
+    background-image: url("/imgs/images/zurich-bg.png");
+}
+.mexico_bg{
+    background-image:url('/imgs/images/mexico-bg.png')
+}
+.paris_bg{
+    background-image: url('/imgs/images/paris-bg.png')
+}
+.rome_bg{
+    background-image: url('/imgs/images/rome-bg.png') 
+}

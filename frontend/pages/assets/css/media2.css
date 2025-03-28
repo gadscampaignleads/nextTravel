@@ -1,0 +1,682 @@
+.call_us_he {
+    display: none;
+}
+
+.form_search p {
+    display: none;
+}
+
+.pro_content {
+    color: white;
+}
+
+.nav_nav22 {
+    display: none;
+}
+
+.close_navv {
+    display: none;
+}
+
+.nav_headerr {
+    display: none;
+}
+
+.d_n_n {
+    display: none;
+}
+
+@media screen and (max-width: 1400px) {
+    .common_padding {
+        padding: 0px 20px;
+    }
+
+    .logo_header img {
+        height: 35px;
+    }
+
+    .nav_links ul li a {
+        font-size: 11px;
+    }
+
+    .nav_btns button {
+        font-size: 11px;
+        padding: 4px 8px;
+    }
+    .nav_btns a {
+        font-size: 11px;
+        padding: 4px 8px;
+    }
+    .banner_t {
+        font-size: 26px;
+    }
+
+    .book_fligg {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 1300px) {
+
+    p,
+    li,
+    a {
+        font-size: 14px;
+    }
+    .footer_t{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .steps_cont_main{
+         width: 96%;
+    }
+    .air_a_s {
+        display: none;
+    }
+
+    .pro_al_hero2 {
+        display: none !important;
+    }
+
+    .d_n_n {
+        display: block;
+        margin-top: 20px !important;
+    }
+
+    .process_sliderr {
+        position: initial;
+        transform: initial;
+    }
+
+    .pro_content {
+        color: black;
+    }
+
+    .air_sp_cont11 img {
+        filter: initial;
+        width: 65px;
+
+    }
+
+    .air_sp_cont {
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-radius: 3px;
+        padding: 10px;
+    }
+    .blur_me{
+        padding: 30px 15px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .common_padding {
+        padding: 0px 15px;
+    }
+    .hero_see{
+        height: initial;
+        padding-top: 5rem;
+        padding-bottom: 3rem;
+    }
+    .tabs_btt{
+        margin-right: -7rem;
+    }
+    .form_h_semi222{
+        padding: 0px;
+    }
+    .aside_flight{
+        padding: 25px 20px;
+    }
+    .close_ffff{
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .nav_links {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.3);
+        z-index: 9;
+        display: flex;
+        justify-content: flex-end;
+        display: none;
+    }
+
+    .nav_links_ac {
+        display: flex;
+    }
+
+    .nav_links ul {
+        width: 40%;
+        height: 100%;
+        background-color: var(--w);
+        flex-direction: column;
+        gap: 0px;
+        padding-top: 0rem;
+    }
+
+    .nav_links ul li {
+        display: flex;
+        width: 100%;
+    }
+
+    .nav_links ul li a {
+        color: var(--d);
+        font-size: 20px;
+        display: flex;
+        width: 100%;
+        padding: 17px 30px;
+    }
+
+    .nav_links ul li:nth-child(even) {
+        background-color: #f6f6f6;
+    }
+
+    .call_us_he {
+        position: absolute;
+        bottom: 20px;
+        width: 90%;
+        margin: auto;
+        background-color: var(--b);
+        color: var(--w);
+        border-radius: 0px;
+        padding: 16px 30px;
+        font-size: 19px;
+        font-weight: 600;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        border-radius: 50px;
+    }
+
+    .call_us_he img {
+        height: 50px;
+        width: auto;
+    }
+
+    .pro_al_hero {
+        width: 96%;
+    }
+
+    .nav_headerr {
+        background-color: var(--d);
+        width: 100%;
+        padding: 15px 20px;
+        display: flex;
+    }
+
+    .navv_h_ig img {
+        height: 40px;
+        width: auto;
+    }
+
+    .close_navv {
+        width: 30px;
+        height: 30px;
+        display: flex;
+        background-color: var(--b);
+        color: white;
+        gap: 5px;
+        border: none;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 5px 10px;
+    }
+
+    .close_navv img {
+        height: 11px;
+        width: auto;
+    }
+    .tabs_btt{
+        margin-right: -10rem;
+    }
+    .steps_gr{
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 30px 0px;
+    }
+    .blur_me{
+        padding: 30px 15px;
+    }
+    .fil_title11{
+        display: flex !important;
+    }
+    .nav_links ul li a::after{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav_links ul {
+        width: 100%;
+    }
+
+    .flight_imgg {
+        margin-bottom: -1.5rem;
+    }
+
+    .ab_altt img {
+        border-radius: 5px;
+    }
+
+    .footer_img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .form_contrainer_s {
+        background-color: transparent;
+        padding: 0px;
+        box-shadow: none;
+    }
+    .form_holdd_semi{
+        display: flex;
+        flex-direction: column;
+    }
+    .form_holdd {
+        width: 100%;
+        background-color: white;
+        border-radius: 8px;
+        padding: 8px 15px !important;
+        margin-top: 12px;
+    }
+
+    .form_holdd:nth-child(odd) {
+        padding: 0px;
+    }
+
+    .form_holdd:nth-child(2) {
+        padding: 0px;
+    }
+
+    .form_holdd:nth-child(1) {
+        margin-top: 5px;
+    }
+
+    .form_holdd_semi {
+        width: 50%;
+    }
+
+    .pro_al_hero2 {
+        display: none;
+    }
+
+    .form_holdd label {
+        margin-bottom: 4px;
+    }
+
+    .form_holdd label {
+        font-size: 12px;
+    }
+
+    .form_search p {
+        display: flex;
+    }
+
+    .search_btt {
+        width: 100%;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--w);
+        gap: 7px;
+    }
+
+    .search_btt p {
+        font-size: 18px;
+    }
+
+    .search_btt img {
+        height: 25px;
+    }
+
+    .form_search {
+        background-color: transparent;
+        padding: 0px !important;
+    }
+    .tabs_btt{
+        margin-bottom: 20px;
+        padding: 0px;
+        border-bottom: 1px solid rgba(255,255,255,0.9);
+        display: flex;
+        justify-content: flex-start !important;
+        border-radius: 0px;
+        width: 100%;
+    }
+    .w_cc{
+        width: 100%;
+    }
+    .tabs_btt button{
+        border-radius: 5px 5px 0px 0px;
+    }
+    .tabs_btt a{
+        border-radius: 5px 5px 0px 0px;
+    }
+    .tabs_btt{
+        margin-right: initial;
+    }
+    .tabs_ways{
+        position: initial;
+        bottom: initial;
+    }
+    .flex_wrr{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .tabs_ways{
+        order: 2;
+        margin-bottom: 10px;
+    }
+    .steps_gr{
+        grid-template-columns: repeat(2,1fr); 
+    }
+    .steps_cont:nth-child(even){
+        border: none;
+    }
+    .date_d {
+        border-radius: 5px 0px 0px 5px;
+    }
+    .date_d_r{
+        border-radius: 0px 5px 5px 0px;
+    }
+    .form_search_us{
+        background: transparent;
+    padding: 0px;
+    margin-bottom: 20px;
+    }
+    .modify_bg .tabs_ways{
+        margin: 0px;
+        margin-bottom: -5px;
+        margin-left: 20px;
+    }
+    .hotel_container{
+        flex-direction: column;
+    }
+    .hotel_air_contt{
+        width: 100%;
+    }
+    .hotel_listing_gal{
+        width: 100%;
+    }
+    .hotel_air_contt{
+        padding: 15px 20px;
+    }
+    .aside_flight111{
+        padding: 0px; 
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .common_title {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    .nav_links ul li a {
+        font-size: 17px;
+        padding: 14px 30px;
+    }
+
+    .call_us_he {
+        font-size: 20px;
+        padding: 13px;
+
+    }
+
+    .call_us_he img {
+        height: 45px;
+    }
+
+    .nav_btns_m {
+        display: none;
+    }
+
+    .banner_t {
+        font-size: 23px;
+        line-height: 36px;
+    }
+    .hero_see {
+        padding-top: 6rem;
+        height: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .logo_header img {
+        height: 35px;
+    }
+
+    .date_d {
+        border-radius: 5px 0px 0px 5px;
+    }
+
+    .date_d_r {
+        border-radius: 0px 5px 5px 0px;
+    }
+    .tabs_btt{
+        padding: 0px;
+        gap: 6px;  
+    }
+    
+    .tabs_btt button {
+        font-size: 12px;
+        padding: 8px 15px;
+        gap: 6px;
+    }
+    .tabs_btt a {
+        font-size: 12px;
+        padding: 8px 15px;
+        gap: 6px;
+    }
+    .ac_icc img {
+        height: 18px; 
+    }
+    .ac_btt{
+        font-size: 13px !important;
+    }
+    .semi_title {
+        font-size: 16px;
+    }
+
+    .bg_contt {
+        padding: 20px;
+    }
+
+    .destination_grid {
+        flex-wrap: wrap;
+    }
+
+    .destination_container {
+        width: 100%;
+    }
+
+    .footer_ul li a {
+        font-size: 12px;
+    }
+
+    .process_sliderr {
+        position: initial;
+        transform: initial;
+    }
+
+    .pro_img img {
+        height: 60px;
+    }
+
+    .pro_container {
+        background-color: #f9f9f9;
+        padding: 13px 10px;
+        justify-content: center;
+    }
+
+    .pro_al_hero {
+        width: 100%;
+    }
+
+    .pro_tit {
+        font-size: 17px;
+    }
+
+    .pro_content {
+        color: black;
+    }
+
+    .pop_img img {
+        height: 150px;
+    }
+
+    .book_fligg {
+        font-size: 13px;
+        display: none;
+    }
+
+    .des_title11 {
+        font-size: 17px;
+    }
+
+    .destination_cc2 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .destination_container3 img {
+        height: 280px;
+    }
+
+    .ab_altt img {
+        height: 500px;
+    }
+
+    .know_btt img {
+        height: 22px;
+    }
+
+    .ab_tt {
+        font-size: 23px;
+    }
+
+    .nav_btns {
+        display: none;
+    }
+
+    .nav_nav22 {
+        display: flex;
+    }
+
+    .menu_btn {
+        border: none;
+        background: transparent;
+    }
+    .d_n_n { 
+        margin-top: 0px !important;
+    }
+    .menu_btn img {
+        height: 35px;
+        width: auto;
+        filter: brightness(0) invert(1);
+    }
+    .sec_opti {
+        gap: 11px;}
+        .sec_opti p {
+            font-size: 13px;
+        }
+        .hero_form_f {
+            margin-top: 15px !important;
+        }
+        .tabs_ways button{
+            font-size: 11px;
+        }
+        .steps_cont{
+            padding: 0px 10px;
+        }
+        .steps_cont_main{
+            padding: 20px 5px;
+        }
+        .start_j{
+            font-size: 15px;
+        }
+        .steps_icc img{
+            height: 38px;
+        }
+        .start_j {
+            font-size: 13px;
+        }
+        .steps_cont .font_12{
+            font-size: 10px;
+        }
+        .search_btt{
+            height: 55px;
+            margin-top: 10px;
+        }
+        .margin_top {
+            margin-top: 50px;
+        }
+        .title_t{
+            font-size: 26px;
+        }
+        .fl_cont2 .font_in{
+            border: none;
+            padding: 0px;
+            border-top: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 0px;
+            padding-top: 9px;
+        }
+        .assit_cont{
+            flex-direction: row;
+        }
+        .res_f {
+            width: 110px;
+            font-size: 12px;
+        }
+            .price_g p{
+                font-size: 12px !important;
+            }
+            .title_d{
+                font-size: 23px;
+                line-height: 40px;
+            }
+            .starting_f {
+                font-size: 18px;
+                font-weight: 600;
+            }
+            .hotel_air_contt{
+                flex-direction: column;
+            }
+            .hotel_container .price_p_h{
+                width: 100%;
+            }
+            .hotel_pricee {
+                display: flex;
+                align-items: center;
+                text-align: initial !important;
+            }
+            .text_s_e{
+                text-align: end;
+                width: 60%;
+            }
+            .footer_l img {
+                height: 44px;}
+                .className_holdd {
+                    font-size: 10px !important;}
+
+}
+@media screen and (max-width: 376px){
+    .tabs_btt button{
+        padding: 7px 11px;
+    }
+    .tabs_btt a{
+        padding: 7px 11px;
+    }
+    .ac_icc img {
+        height: 15px;
+    }
+}
