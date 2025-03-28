@@ -277,7 +277,7 @@ function Modify() {
                                                 minDate={date}
                                                 format="MMM-DD-YYYY"
                                             />
-                                            <p className="small_de">MMM/DD/YYYY</p>
+                                         
 
                                         </div>
                                     ) : (

@@ -532,8 +532,7 @@
 }
 
 /*Ab Page*/
-.common_banner_custt {
-    background: linear-gradient(to top, hwb(334 97% 0%), white);
+.common_banner_custt { 
     padding: 3rem 0px;
     border-bottom: 1px solid rgba(103, 103, 103, 0.1);
 }

@@ -409,12 +409,17 @@ header{
     height: 30px !important;
     background-color: var(--color-purple);
     border-radius: 50px;
+    display: none !important;
+}
+.rmdp-arrow-container{
+    background-color: var(--color-purple) !important;
 }
 .swiper-button-prev{
     width: 30px !important;
     height: 30px !important;
     background-color: var(--color-purple);
     border-radius: 50px;
+    display: none !important;
 }
 .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after{
     font-size: 12px !important;

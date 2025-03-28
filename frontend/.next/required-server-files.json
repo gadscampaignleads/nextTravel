@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\dell\\Desktop\\nextApp2\\frontend",
+    "outputFileTracingRoot": "C:\\Users\\Rohit\\Desktop\\travel-nija\\fares-feb\\final-fares\\all-latest\\latest-next-29-3-25\\traveloways\\nextTravel\\frontend",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -154,7 +154,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 3,
+      "cpus": 7,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -175,7 +175,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "C:\\Users\\dell\\Desktop\\nextApp2\\frontend"
+        "root": "C:\\Users\\Rohit\\Desktop\\travel-nija\\fares-feb\\final-fares\\all-latest\\latest-next-29-3-25\\traveloways\\nextTravel\\frontend"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -291,7 +291,7 @@
       "fallback": []
     }
   },
-  "appDir": "C:\\Users\\dell\\Desktop\\nextApp2\\frontend",
+  "appDir": "C:\\Users\\Rohit\\Desktop\\travel-nija\\fares-feb\\final-fares\\all-latest\\latest-next-29-3-25\\traveloways\\nextTravel\\frontend",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

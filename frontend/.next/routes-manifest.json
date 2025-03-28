@@ -201,34 +201,34 @@
       "namedRegex": "^/terms\\-conditions(?:/)?$"
     },
     {
-      "page": "/tours/dubai",
-      "regex": "^/tours/dubai(?:/)?$",
+      "page": "/tour/dubai",
+      "regex": "^/tour/dubai(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/tours/dubai(?:/)?$"
+      "namedRegex": "^/tour/dubai(?:/)?$"
     },
     {
-      "page": "/tours/hong-kong",
-      "regex": "^/tours/hong\\-kong(?:/)?$",
+      "page": "/tour/hong-kong",
+      "regex": "^/tour/hong\\-kong(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/tours/hong\\-kong(?:/)?$"
+      "namedRegex": "^/tour/hong\\-kong(?:/)?$"
     },
     {
-      "page": "/tours/kenya",
-      "regex": "^/tours/kenya(?:/)?$",
+      "page": "/tour/kenya",
+      "regex": "^/tour/kenya(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/tours/kenya(?:/)?$"
+      "namedRegex": "^/tour/kenya(?:/)?$"
     },
     {
-      "page": "/tours/poland",
-      "regex": "^/tours/poland(?:/)?$",
+      "page": "/tour/poland",
+      "regex": "^/tour/poland(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/tours/poland(?:/)?$"
+      "namedRegex": "^/tour/poland(?:/)?$"
     },
     {
-      "page": "/tours/turkey",
-      "regex": "^/tours/turkey(?:/)?$",
+      "page": "/tour/turkey",
+      "regex": "^/tour/turkey(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/tours/turkey(?:/)?$"
+      "namedRegex": "^/tour/turkey(?:/)?$"
     }
   ],
   "dataRoutes": [],

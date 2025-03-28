@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/JFyAY8yOtZbAsVSIVp5Nl/_buildManifest.js",
-    "static/JFyAY8yOtZbAsVSIVp5Nl/_ssgManifest.js"
+    "static/TqnmZtHpejJPRSs2vNv0A/_buildManifest.js",
+    "static/TqnmZtHpejJPRSs2vNv0A/_ssgManifest.js"
   ],
   "rootMainFiles": [
     "static/chunks/webpack-4dfb49966d16f21e.js",
@@ -55,8 +55,8 @@
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
-      "static/css/6044fe8ae4d503a9.css",
-      "static/chunks/pages/_app-b311a19056dd9b48.js"
+      "static/css/7153202d8b18b9df.css",
+      "static/chunks/pages/_app-10f11f02acc6e334.js"
     ],
     "/_error": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
@@ -111,7 +111,7 @@
       "static/chunks/6340-4cbef4163e6f6b9e.js",
       "static/chunks/5398-6d508fb1124e5948.js",
       "static/chunks/3550-afc672799cf0c70a.js",
-      "static/chunks/pages/destination/atlanta-66f97f7f5951bb1e.js"
+      "static/chunks/pages/destination/atlanta-8234b3c7144a37d8.js"
     ],
     "/destination/fort-lauderdale": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
@@ -263,7 +263,7 @@
       "static/chunks/6340-4cbef4163e6f6b9e.js",
       "static/chunks/8230-f30bac86f0ec080f.js",
       "static/chunks/2508-b42646cf6ab4a513.js",
-      "static/chunks/pages/flights/AirlinesListing-5bb8e39eb54f992d.js"
+      "static/chunks/pages/flights/AirlinesListing-4109e5f637504b54.js"
     ],
     "/hotels": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
@@ -326,40 +326,40 @@
       "static/chunks/5398-6d508fb1124e5948.js",
       "static/chunks/pages/terms-conditions-3c55a8f2bca8512d.js"
     ],
-    "/tours/dubai": [
+    "/tour/dubai": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
       "static/chunks/5398-6d508fb1124e5948.js",
-      "static/chunks/pages/tours/dubai-60263ebe6a524315.js"
+      "static/chunks/pages/tour/dubai-b9ff038267781b7c.js"
     ],
-    "/tours/hong-kong": [
+    "/tour/hong-kong": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
       "static/chunks/5398-6d508fb1124e5948.js",
-      "static/chunks/pages/tours/hong-kong-b1495e2f74fa8aaf.js"
+      "static/chunks/pages/tour/hong-kong-7cb941fbfea3793f.js"
     ],
-    "/tours/kenya": [
+    "/tour/kenya": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
       "static/chunks/5398-6d508fb1124e5948.js",
-      "static/chunks/pages/tours/kenya-24b97e59d2470d41.js"
+      "static/chunks/pages/tour/kenya-312a0ab37255832a.js"
     ],
-    "/tours/poland": [
+    "/tour/poland": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
       "static/chunks/2508-b42646cf6ab4a513.js",
-      "static/chunks/pages/tours/poland-4c6d16fdc7b82675.js"
+      "static/chunks/pages/tour/poland-958e86716e049faf.js"
     ],
-    "/tours/turkey": [
+    "/tour/turkey": [
       "static/chunks/webpack-4dfb49966d16f21e.js",
       "static/chunks/framework-9c707c41f8f28298.js",
       "static/chunks/main-9668e468aa660bf7.js",
       "static/chunks/5398-6d508fb1124e5948.js",
-      "static/chunks/pages/tours/turkey-59b1c8adbae6595e.js"
+      "static/chunks/pages/tour/turkey-526655e8235c8a21.js"
     ]
   },
   "ampFirstPages": []
