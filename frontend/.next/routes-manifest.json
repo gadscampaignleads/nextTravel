@@ -1,0 +1,258 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [
+    {
+      "page": "/HotelBooking/[id]",
+      "regex": "^/HotelBooking/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/HotelBooking/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/booking/[id]",
+      "regex": "^/booking/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/booking/(?<nxtPid>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/Searching",
+      "regex": "^/Searching(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/Searching(?:/)?$"
+    },
+    {
+      "page": "/ThankYou",
+      "regex": "^/ThankYou(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ThankYou(?:/)?$"
+    },
+    {
+      "page": "/about",
+      "regex": "^/about(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about(?:/)?$"
+    },
+    {
+      "page": "/booking1",
+      "regex": "^/booking1(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/booking1(?:/)?$"
+    },
+    {
+      "page": "/cancellation-policy",
+      "regex": "^/cancellation\\-policy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cancellation\\-policy(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/destination/atlanta",
+      "regex": "^/destination/atlanta(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/atlanta(?:/)?$"
+    },
+    {
+      "page": "/destination/fort-lauderdale",
+      "regex": "^/destination/fort\\-lauderdale(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/fort\\-lauderdale(?:/)?$"
+    },
+    {
+      "page": "/destination/frankfurt",
+      "regex": "^/destination/frankfurt(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/frankfurt(?:/)?$"
+    },
+    {
+      "page": "/destination/las-vegas",
+      "regex": "^/destination/las\\-vegas(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/las\\-vegas(?:/)?$"
+    },
+    {
+      "page": "/destination/london",
+      "regex": "^/destination/london(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/london(?:/)?$"
+    },
+    {
+      "page": "/destination/los-angeles",
+      "regex": "^/destination/los\\-angeles(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/los\\-angeles(?:/)?$"
+    },
+    {
+      "page": "/destination/mexico",
+      "regex": "^/destination/mexico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/mexico(?:/)?$"
+    },
+    {
+      "page": "/destination/miami",
+      "regex": "^/destination/miami(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/miami(?:/)?$"
+    },
+    {
+      "page": "/destination/paris",
+      "regex": "^/destination/paris(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/paris(?:/)?$"
+    },
+    {
+      "page": "/destination/phoenix",
+      "regex": "^/destination/phoenix(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/phoenix(?:/)?$"
+    },
+    {
+      "page": "/destination/rome",
+      "regex": "^/destination/rome(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/rome(?:/)?$"
+    },
+    {
+      "page": "/destination/zurich",
+      "regex": "^/destination/zurich(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/destination/zurich(?:/)?$"
+    },
+    {
+      "page": "/disclaimer",
+      "regex": "^/disclaimer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/disclaimer(?:/)?$"
+    },
+    {
+      "page": "/flights/AirlinesListing",
+      "regex": "^/flights/AirlinesListing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/flights/AirlinesListing(?:/)?$"
+    },
+    {
+      "page": "/hotels",
+      "regex": "^/hotels(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/hotels(?:/)?$"
+    },
+    {
+      "page": "/hotels/HotelListing",
+      "regex": "^/hotels/HotelListing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/hotels/HotelListing(?:/)?$"
+    },
+    {
+      "page": "/packages",
+      "regex": "^/packages(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/packages(?:/)?$"
+    },
+    {
+      "page": "/price-match-policy",
+      "regex": "^/price\\-match\\-policy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/price\\-match\\-policy(?:/)?$"
+    },
+    {
+      "page": "/privacy-policy",
+      "regex": "^/privacy\\-policy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/privacy\\-policy(?:/)?$"
+    },
+    {
+      "page": "/refund-policy",
+      "regex": "^/refund\\-policy(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/refund\\-policy(?:/)?$"
+    },
+    {
+      "page": "/terms-conditions",
+      "regex": "^/terms\\-conditions(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/terms\\-conditions(?:/)?$"
+    },
+    {
+      "page": "/tours/dubai",
+      "regex": "^/tours/dubai(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours/dubai(?:/)?$"
+    },
+    {
+      "page": "/tours/hong-kong",
+      "regex": "^/tours/hong\\-kong(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours/hong\\-kong(?:/)?$"
+    },
+    {
+      "page": "/tours/kenya",
+      "regex": "^/tours/kenya(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours/kenya(?:/)?$"
+    },
+    {
+      "page": "/tours/poland",
+      "regex": "^/tours/poland(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours/poland(?:/)?$"
+    },
+    {
+      "page": "/tours/turkey",
+      "regex": "^/tours/turkey(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tours/turkey(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "http://localhost:8000/api/:path*",
+      "regex": "^/api(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?(?:/)?$"
+    }
+  ]
+}
